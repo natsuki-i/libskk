@@ -1,0 +1,10 @@
+{
+    "define": {
+        "keymap": {
+            "[": "set-input-mode-hiragana",
+            "{": "set-input-mode-hankaku-katakana",
+            "]": "set-input-mode-latin",
+            "}": "set-input-mode-wide-latin"
+        }
+    }
+}
